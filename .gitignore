@@ -1,0 +1,14 @@
+# Folder hasil compile (output)
+bin/
+obj/
+
+# Folder konfigurasi VS Code & local user
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Folder package manager
+.nuget/
+packages/
